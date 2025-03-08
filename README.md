@@ -1,4 +1,4 @@
-# Assignment 5: Basic Memory Allocator
+Memory Allocator
 
 This is the starter code for [Assignment 5](https://course.ccs.neu.edu/cs3650f22/a05.html).
 
