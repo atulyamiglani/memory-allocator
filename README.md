@@ -1,7 +1,5 @@
 Memory Allocator
 
-This is the starter code for [Assignment 5](https://course.ccs.neu.edu/cs3650f22/a05.html).
-
 The [Makefile](Makefile) contains the following targets:
 
 - `make all` - compile [mymalloc.c](mymalloc.c) into the object file `mymalloc.o`
